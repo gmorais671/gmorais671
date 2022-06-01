@@ -9,9 +9,7 @@
 
 - 📄 Experiências [Curriculum Vitae](https://drive.google.com/file/d/1CvIFp-YuGMkocbiRzEouzDgLeYYvDS2p/view?usp=sharing)
 
-- 📫 Onde me encontrar: **https://www.linkedin.com/in/gabriel-morais-marcondes-3741b817b/**
-
-- ⚡ Curiosidade: **I'm a multi-instrumentalist**
+- ⚡ Curiosidade: **Sou multi instrumentista**
 
 ##
 
@@ -21,8 +19,7 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel morais marcondes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel morais marcondes" height="30" width="40" /></a>
-<a href="https://fb.com/gabriel morais marcondes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gabriel morais marcondes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-morais-marcondes-3741b817b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel morais marcondes" height="30" width="40" /></a>
 <a href="https://instagram.com/_gamorais_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gamorais_" height="30" width="40" /></a>
 </p>
 
