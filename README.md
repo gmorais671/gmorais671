@@ -3,9 +3,9 @@
 
 ##
 
-- 🔭 Trabalhando no projeto [Open ERP](https://github.com/gmorais671/open_erp)
+- 🔭 Iniciando uma nova carreira na [Sinapse Informática](https://www.linkedin.com/company/sinapsedigital/)
 
-- 🌱 Estudando **Flutter**
+- 🌱 Estudando **Flutter, JAVA e SQL**
 
 - 📄 Experiências [Curriculum Vitae](https://drive.google.com/file/d/1CvIFp-YuGMkocbiRzEouzDgLeYYvDS2p/view?usp=sharing)
 
