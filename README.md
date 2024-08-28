@@ -5,7 +5,7 @@
 
 - 🔭 Iniciando uma nova carreira na [Sinapse Informática](https://www.linkedin.com/company/sinapsedigital/)
 
-- 🌱 Estudando **Desenvolvimento de ERPs em Flutter**
+- 🌱 Estudando **Desenvolvimento WEB com Vue e WordPress**
 
 - 📄 Experiências [Curriculum Vitae](https://drive.google.com/file/d/1CvIFp-YuGMkocbiRzEouzDgLeYYvDS2p/view?usp=sharing)
 
