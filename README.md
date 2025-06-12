@@ -1,15 +1,9 @@
 <h1 align="center">Olá, muito prazer! Meu nome é Gabriel Morais Marcondes</h1>
-<h3 align="center">🤝 Um debugador de ideias diferentes 🤝</h3>
+<h3 align="center">🤝 Desenvolvedor multiplataforma com altas tendências ao Flutter 🤝</h3>
 
 ##
 
-- 🔭 Iniciando uma nova carreira na [Sinapse Informática](https://www.linkedin.com/company/sinapsedigital/)
-
 - 🌱 Estudando **Desenvolvimento mobile com Flutter e backend com Java**
-
-- 📄 Experiências [Curriculum Vitae](https://drive.google.com/file/d/1CvIFp-YuGMkocbiRzEouzDgLeYYvDS2p/view?usp=sharing)
-
-- ⚡ Curiosidade: **Sou multi instrumentista**
 
 ##
 
